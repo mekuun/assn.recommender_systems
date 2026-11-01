@@ -1,0 +1,3 @@
+split,all_interactions,new_user_rows_pct,new_item_rows_pct,warm_interactions,evaluated_users_in_cohort,evaluated_positive_pairs
+validation,74572,38.87115807541704,23.118596792361746,32700,2215,5395
+test,50400,48.45634920634921,32.17857142857143,16029,1171,2507
